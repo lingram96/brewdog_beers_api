@@ -1,0 +1,53 @@
+.beer-detail{
+    border-style: solid;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #5fc0dc;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+
+img{
+    margin-bottom: 50px;
+}
+
+h1{
+    color: #353B3C;
+}
+
+h2{
+    font-style: italic;
+    color: #F7F3E3;
+}
+
+
+button{
+    background-color: #353B3C;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 10px;
+    color: #5fc0dc;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    text-decoration: none;
+  }
+
+button:hover{
+    color: #353B3C;
+    background-color: #F7F3E3;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  }
+  
+p.blocktext{
+    color: #353B3C;
+    text-align: center;
+    text-align: justify;
+    margin: 50px;
+    font-weight: bold;
+}

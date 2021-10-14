@@ -1,0 +1,9 @@
+select{
+    color: #353B3C;
+    background-color: #F7F3E3;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    width: 15%;
+    border-radius: 15px;
+}
